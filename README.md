@@ -7,4 +7,4 @@
 - **Tools:** Tableau, Excel
 - **Dashboard Link:** [View on Tableau Public](https://public.tableau.com/views/DataScientistJobSalaryDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - **Screenshot:**
-![Dashboard Screenshot]()
+![Dashboard Screenshot](Data Scientist Salaries Dashboard.png)
